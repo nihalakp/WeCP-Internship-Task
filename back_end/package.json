@@ -1,0 +1,19 @@
+{
+  "name": "back_end",
+  "version": "1.0.0",
+  "description": "Backe_End Server",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nihala Karapoola",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.17",
+    "nodeman": "^1.1.2",
+    "nodemon": "^1.17.4"
+  }
+}
